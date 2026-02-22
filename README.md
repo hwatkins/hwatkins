@@ -1,6 +1,6 @@
 # Hey, I'm Hugh Watkins 👋
 
-Software developer based in Alpharetta, GA with a passion for retro computing preservation and the Elixir/Erlang ecosystem.
+Software architect and engineering leader by day. Elixir, Rust, and retro computing by night.
 
 ### What I'm building
 
@@ -8,20 +8,20 @@ Software developer based in Alpharetta, GA with a passion for retro computing pr
 
 🔗 **[ex_asana](https://github.com/hwatkins/ex_asana)** — Elixir client library for the Asana API. In active development.
 
+📋 **[ex_linear](https://github.com/hwatkins/ex_linear)** — Elixir client library for the Linear GraphQL API.
+
+📝 **[ex_notion](https://github.com/hwatkins/ex_notion)** — Elixir client library for the Notion API.
+
+📅 **[ex_calendly](https://github.com/hwatkins/ex_calendly)** — Elixir client library for the Calendly API v2.
+
 🖥️ **[visicalc](https://github.com/hwatkins/visicalc)** — Fully annotated disassembly of the original VisiCalc (1979) for the Apple II. Line-by-line documentation of the 6502 assembly that powered the first killer app.
 
 🔭 **retroscope** — Coming soon. Boots Apple II disk images (.po, .woz) and performs automated disassembly.
 
-### What's next
-
-- Expanding ex_guten's typography engine (hyphenation, justification, layout)
-- Building ex_asana into a complete Asana API client for Hex.pm
-- Shipping retroscope for the retro computing community
-
 ### Tech
 
-**Day to day:** Go
+**By day:** Go · AWS · Cloud Architecture · DevOps · MLOps
 
-**Passions:** Elixir · Phoenix · Erlang/OTP · Rust
+**By night:** Elixir · Rust · 6502 Assembly
 
-**Retro:** 6502 Assembly · Apple II · Disk image forensics
+**Retro:** Apple II · Disk image forensics · Computing history preservation
