@@ -25,3 +25,5 @@ Software architect and engineering leader by day. Elixir, Rust, and retro comput
 **By night:** Elixir · Rust · 6502 Assembly
 
 **Retro:** Apple II · Disk image forensics · Computing history preservation
+
+![](https://cloud.umami.is/p/81xzNM0jo)
